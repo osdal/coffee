@@ -1,0 +1,4 @@
+[29-Mar-2016 09:07:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 30720 bytes) in /home/i7894/public_html/coffe/wp-content/themes/dt-the7/inc/shortcodes/includes/blog-posts/blog-posts.php on line 130
+[29-Mar-2016 09:08:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 30720 bytes) in /home/i7894/public_html/coffe/wp-content/themes/dt-the7/inc/shortcodes/includes/blog-posts/blog-posts.php on line 130
+[29-Mar-2016 09:08:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 30720 bytes) in /home/i7894/public_html/coffe/wp-content/themes/dt-the7/inc/shortcodes/includes/blog-posts/blog-posts.php on line 130
+[29-Mar-2016 09:08:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7680 bytes) in /home/i7894/public_html/coffe/wp-content/themes/dt-the7/inc/shortcodes/includes/class-shortcode.php on line 17
