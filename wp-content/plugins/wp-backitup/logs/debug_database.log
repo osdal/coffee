@@ -55043,3 +55043,69 @@ Class::__set_state(array(
    'job_status' => 'complete',
 ))
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:25:23 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:25:23 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:25:23 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 13:25:23 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:25:23 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'job_name' => 'kafe_1470309983',
+   'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip";d:326;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip";d:30199;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip";d:191;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip";d:16028;}}',
+   'job_start' => '2016-08-04 11:26:29',
+   'job_end' => '2016-08-04 12:00:57',
+   'create_date' => '2016-08-04 11:26:23',
+   'update_date' => '2016-08-04 12:00:57',
+   'job_status' => 'complete',
+))
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:25:57 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:25:57 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:25:57 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 13:25:57 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:25:57 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'job_name' => 'kafe_1470309983',
+   'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip";d:326;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip";d:30199;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip";d:191;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip";d:16028;}}',
+   'job_start' => '2016-08-04 11:26:29',
+   'job_end' => '2016-08-04 12:00:57',
+   'create_date' => '2016-08-04 11:26:23',
+   'update_date' => '2016-08-04 12:00:57',
+   'job_status' => 'complete',
+))
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:30:16 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:30:16 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:30:16 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 13:30:16 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:30:16 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'job_name' => 'kafe_1470309983',
+   'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip";d:326;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip";d:30199;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip";d:191;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip";d:16028;}}',
+   'job_start' => '2016-08-04 11:26:29',
+   'job_end' => '2016-08-04 12:00:57',
+   'create_date' => '2016-08-04 11:26:23',
+   'update_date' => '2016-08-04 12:00:57',
+   'job_status' => 'complete',
+))
+** Close LOG File ** 

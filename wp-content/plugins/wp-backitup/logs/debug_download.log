@@ -1,0 +1,22 @@
+** Open LOG File ** 
+2016-08-04 13:26:11 V2 array (
+  'action' => 'download_backup',
+  'backup_file' => 'kafe_1470309983-others-1470312036.zip',
+  '_wpnonce' => 'a3775bc5e8',
+  '_wp_http_referer' => '/wp-admin/admin.php?page=wp-backitup-backup',
+)
+2016-08-04 13:26:11 (V2 ) INFO: nonce verified
+2016-08-04 13:26:11 (V2 ) INFO: Backup file path:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip
+2016-08-04 13:26:11 (V2 ) INFO: Download complete
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:30:25 V2 array (
+  'action' => 'download_backup',
+  'backup_file' => 'kafe_1470309983-main-1470310868.zip',
+  '_wpnonce' => 'a3775bc5e8',
+  '_wp_http_referer' => '/wp-admin/admin.php?page=wp-backitup-backup',
+)
+2016-08-04 13:30:25 (V2 ) INFO: nonce verified
+2016-08-04 13:30:25 (V2 ) INFO: Backup file path:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip
+2016-08-04 13:30:25 (V2 ) INFO: Download complete
+** Close LOG File ** 
