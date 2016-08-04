@@ -7012,3 +7012,228 @@ _lock
 2016-08-04 10:38:14 (V2 WPBackItUp_Job::__destruct) INFO: Begin
 2016-08-04 10:38:14 (V2 WPBackItUp_Job::__destruct) INFO: End
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: Begin - Check Job Queue:restore
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:16:58 V2 false
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: No jobs found:restore
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: End
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: Begin - Check Job Queue:backup
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:16:58 V2 false
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: No jobs found:backup
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: End
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: Begin - Check Job Queue:cleanup
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:16:58 V2 false
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: No jobs found:cleanup
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::is_job_queued_active) INFO: End
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::queue_job) INFO: Begin -  Job:cleanup
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::queue_job) INFO: Job Created:1470309418
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::create_tasks) INFO: Begin
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::create_tasks) INFO: task created:16:task_scheduled_cleanup
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::create_tasks) INFO: End
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::queue_job) INFO: End
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:16:58 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:17:01 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:17:01 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 11:17:05 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:17:05 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:17:05 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:17:05 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 11:17:11 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:17:11 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:17:11 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:17:11 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 11:17:14 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:17:14 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:17:14 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:17:14 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 11:17:18 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:17:18 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:17:18 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:17:18 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 11:17:21 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:17:21 (V2 WPBackItUp_Job::__destruct) INFO: End
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:18:38 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:18:38 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+** Open LOG File ** 
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_lock) INFO: Begin:job_lock
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_lock) INFO: Process LOCK acquired
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_next_task) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setStatus) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setJobStartTime) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setJobStartTime) INFO: End - Backup Job start time set
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setStatus) INFO: End - Backup Job status set to:1470309418-active
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_job_name) INFO: Begin:backup-kafe_1470305469
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_job_name) INFO: Job Ids:array (
+  0 => 
+  stdClass::__set_state(array(
+     'job_id' => '1470305469',
+     'job_type' => 'backup',
+     'job_run_type' => 'manual',
+     'job_name' => 'kafe_1470305469',
+     'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:113:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-backupset-1470307035.zip";d:79010;s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-main-1470306816.zip";d:325;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-others-1470307019.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-plugins-1470306944.zip";d:29152;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-themes-1470306824.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-uploads-1470307010.zip";d:16028;}}',
+     'job_start' => '2016-08-04 10:11:42',
+     'job_end' => '2016-08-04 10:37:39',
+     'create_date' => '2016-08-04 10:11:09',
+     'update_date' => '2016-08-04 10:37:39',
+     'job_status' => 'complete',
+  )),
+)
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::get_jobs_by_job_name) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setStatus) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setJobEndTime) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setJobEndTime) INFO: End - Backup Job end time set
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::setStatus) INFO: End - Backup Job status set to:1470309418-complete
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::release_lock) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::release_lock) INFO: Mutex:WPBackItUp_Mutex::__set_state(array(
+   'log_name' => 'debug_mutex',
+   'writeablePath' => 'E:\\OpenServer\\domains\\kafe\\wp-content\\plugins\\wp-backitup//logs',
+   'lockName' => 'joblock',
+   'fileHandle' => NULL,
+))
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::release_lock) INFO: Lock released
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::__destruct) INFO: End
+** Close LOG File ** 
+2016-08-04 11:18:44 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:18:44 (V2 WPBackItUp_Job::__destruct) INFO: End
+2016-08-04 11:18:44 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-04 11:18:44 (V2 WPBackItUp_Job::get_job_by_id) INFO: Job found:stdClass::__set_state(array(
+   'job_id' => '1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470309418',
+   'job_meta' => NULL,
+   'job_start' => '2016-08-04 11:18:41',
+   'job_end' => '2016-08-04 11:18:41',
+   'create_date' => '2016-08-04 11:16:58',
+   'update_date' => '2016-08-04 11:18:41',
+   'job_status' => 'complete',
+))
+2016-08-04 11:18:44 (V2 WPBackItUp_Job::__destruct) INFO: Begin
+2016-08-04 11:18:44 (V2 WPBackItUp_Job::__destruct) INFO: End
+** Close LOG File ** 

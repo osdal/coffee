@@ -264,3 +264,31 @@
   ),
 )) 
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:16:59 (V2 WPBackItUp_Async_Request::dispatch) INFO: Error on WP Remote Post Request: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 1000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:17:22 (V2 WPBackItUp_Async_Request::dispatch) INFO: Error on WP Remote Post Request: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 1000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+** Close LOG File ** 

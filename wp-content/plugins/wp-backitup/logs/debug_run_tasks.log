@@ -6966,3 +6966,44 @@
 2016-08-04 10:37:44 (V2 57a2f0c80e3f4) INFO: (backup) Job not active or queued status:
 2016-08-04 10:37:44 (V2 57a2f0c80e3f4) INFO: (backup) End
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (DD) Begin
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (1470309418) Begin:cleanup-scheduled
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309418',
+   'job_name' => 'cleanup_1470309418',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470309521,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup) Job Lock Acquired.
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup) TASK INFO:
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: WPBackItUp_Job_Task::__set_state(array(
+   'log_name' => 'debug_job_task',
+   'job_id' => '1470309418',
+   'task_name' => 'task_scheduled_cleanup',
+   'task_meta' => '',
+   'task_start' => '2016-08-04 11:18:41',
+   'task_end' => NULL,
+   'task_id' => '16',
+   'status' => 'active',
+   'error' => '0',
+   'allocated_id' => '1470309521',
+   'created_date' => NULL,
+   'last_updated' => '2016-08-04 11:18:41',
+   'retry_count' => '0',
+))
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup) Available Task Found: 16
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup) Try Run Task: 16
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: Run task:task_scheduled_cleanup
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup) End Try Run Task:16
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup)Lock Released.
+2016-08-04 11:18:41 (V2 57a2fa60f3388) INFO: (cleanup) End
+** Close LOG File ** 

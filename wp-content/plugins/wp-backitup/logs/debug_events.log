@@ -853,3 +853,6 @@
 ** Open LOG File ** 
 2016-08-04 10:37:44 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:18:40 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 

@@ -1,0 +1,37 @@
+** Open LOG File ** 
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Begin - Purge Jobs:backup
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Total finished jobs found:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Total finished jobs found:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470305469',
+   'job_name' => 'kafe_1470305469',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470309521,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 10:11:42',
+   'job_end_time' => '2016-08-04 10:37:39',
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+    'backup_zip_files' => 
+    array (
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-backupset-1470307035.zip' => 79010,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-main-1470306816.zip' => 325,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-others-1470307019.zip' => 441,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-plugins-1470306944.zip' => 29152,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-themes-1470306824.zip' => 36138,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-uploads-1470307010.zip' => 16028,
+    ),
+  ),
+   'job_status' => 'complete',
+))
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Remaining Jobs After File Check:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Jobs to be purged:0
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: End - job purge complete.  Jobs Purged:0
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Begin - Purge Jobs:cleanup
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Total finished jobs found:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: Remaining Jobs After File Check:1
+2016-08-04 11:18:41 (V2 WPBackItUp_Job::purge_jobs) INFO: End - job purge complete.  Jobs Purged:0
+** Close LOG File ** 

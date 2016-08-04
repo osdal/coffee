@@ -1,0 +1,12 @@
+** Open LOG File ** 
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::isTaskScheduled) INFO: Check schedule for task: backup
+2016-08-04 11:16:58 V2 '**Check Backup Schedule**'
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::check_backup_schedule) INFO: No premium license.
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::isTaskScheduled) INFO: Check schedule for task: cleanup
+2016-08-04 11:16:58 V2 '**Check Cleanup Schedule**'
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::check_cleanup_schedule) INFO: Current Date time:2016-08-04 11:16:58
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::check_cleanup_schedule) INFO: Last Run Date Time:1901-12-13 20:45:52
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::check_cleanup_schedule) INFO: Next Run Date Time:1901-12-13 21:45:52
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::check_cleanup_schedule) INFO: TimeToRun:1470309418:-2147480048
+2016-08-04 11:16:58 (V2 WPBackItUp_Scheduler::check_cleanup_schedule) INFO: Cleanup should be run now.
+** Close LOG File ** 

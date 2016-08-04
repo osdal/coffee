@@ -1,0 +1,5 @@
+** Open LOG File ** 
+2016-08-04 11:16:57 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) INFO: Begin
+2016-08-04 11:16:59 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) INFO: Job queued to run:cleanup_1470309418
+2016-08-04 11:16:59 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) INFO: End check scheduled jobs.
+** Close LOG File ** 

@@ -1115,3 +1115,11 @@
 2016-08-04 10:37:40 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
 2016-08-04 10:37:40 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:18:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 11:18:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 11:18:41 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 11:18:41 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 11:18:41 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 11:18:41 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
