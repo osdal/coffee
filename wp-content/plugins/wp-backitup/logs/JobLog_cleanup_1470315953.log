@@ -1,0 +1,182 @@
+** Open LOG File ** 
+2016-08-04 13:07:56 V2 '***BEGIN JOB***'
+2016-08-04 13:07:56 
+**SYSTEM INFO**
+2016-08-04 13:07:56 
+--WPBackItUp Info--
+2016-08-04 13:07:56 WPBACKITUP License Active: false
+2016-08-04 13:07:56 WPBACKITUP__NAMESPACE:wp-backitup
+2016-08-04 13:07:56 WPBACKITUP__CLASSNAMESPACE:WPBackItUp
+2016-08-04 13:07:56 WPBACKITUP__MAJOR_VERSION:1
+2016-08-04 13:07:56 WPBACKITUP__MINOR_VERSION:12
+2016-08-04 13:07:56 WPBACKITUP__MAINTENANCE_VERSION:5
+2016-08-04 13:07:56 WPBACKITUP__BUILD_VERSION:0
+2016-08-04 13:07:56 WPBACKITUP__VERSION:1.12.5.0
+2016-08-04 13:07:56 WPBACKITUP__DB_VERSION:4
+2016-08-04 13:07:56 WPBACKITUP__DEBUG:
+2016-08-04 13:07:56 WPBACKITUP__MINIMUM_WP_VERSION:3.0
+2016-08-04 13:07:56 WPBACKITUP__ITEM_NAME:WP Backitup
+2016-08-04 13:07:56 WPBACKITUP__FRIENDLY_NAME:WPBackItUp
+2016-08-04 13:07:56 WPBACKITUP__CONTENT_PATH:E:\OpenServer\domains\kafe/wp-content
+2016-08-04 13:07:56 WPBACKITUP__SITE_URL:http://www.wpbackitup.com
+2016-08-04 13:07:56 WPBACKITUP__SECURESITE_URL:https://www.wpbackitup.com
+2016-08-04 13:07:56 WPBACKITUP__SUPPORTSITE_URL:http://support.wpbackitup.com
+2016-08-04 13:07:56 WPBACKITUP__PLUGIN_URL:http://kafe/wp-content/plugins/wp-backitup/
+2016-08-04 13:07:56 WPBACKITUP__PLUGIN_PATH:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup/
+2016-08-04 13:07:56 WPBACKITUP__PLUGIN_FOLDER:wp-backitup
+2016-08-04 13:07:56 WPBACKITUP__BACKUP_FOLDER:wpbackitup_backups
+2016-08-04 13:07:56 WPBACKITUP__BACKUP_URL:http://kafe/wp-content/wpbackitup_backups
+2016-08-04 13:07:56 WPBACKITUP__BACKUP_PATH:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups
+2016-08-04 13:07:56 WPBACKITUP__UPLOAD_FOLDER:TMP_Uploads
+2016-08-04 13:07:56 WPBACKITUP__UPLOAD_PATH:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/TMP_Uploads
+2016-08-04 13:07:56 WPBACKITUP__LOGS_PATH:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup/logs
+2016-08-04 13:07:56 WPBACKITUP__RESTORE_FOLDER:wpbackitup_restore
+2016-08-04 13:07:56 WPBACKITUP__RESTORE_PATH:E:\OpenServer\domains\kafe/wp-content/wpbackitup_restore
+2016-08-04 13:07:56 WPBACKITUP__PLUGINS_ROOT_PATH:E:\OpenServer\domains\kafe/wp-content/plugins
+2016-08-04 13:07:56 WPBACKITUP__THEMES_ROOT_PATH:E:\OpenServer\domains\kafe/wp-content/themes
+2016-08-04 13:07:56 WPBACKITUP__THEMES_FOLDER:themes
+2016-08-04 13:07:56 WPBACKITUP__SQL_DBBACKUP_FILENAME:db-backup.sql
+2016-08-04 13:07:56 WPBACKITUP__BACKUP_GLOBAL_IGNORE_LIST:.htaccess
+2016-08-04 13:07:56 WPBACKITUP__TASK_TIMEOUT_SECONDS:120
+2016-08-04 13:07:56 WPBACKITUP__SCRIPT_TIMEOUT_SECONDS:900
+2016-08-04 13:07:56 WPBACKITUP__TASK_WAIT_SECONDS:2
+2016-08-04 13:07:56 WPBACKITUP__BACKUP_RETAINED_DAYS:5
+2016-08-04 13:07:56 WPBACKITUP__SUPPORT_EMAIL:wpbackitupcomsupport@wpbackitup.freshdesk.com
+2016-08-04 13:07:56 WPBACKITUP__SQL_BULK_INSERT_SIZE:1000
+2016-08-04 13:07:56 WPBACKITUP__ZIP_MAX_FILE_SIZE:524288000
+2016-08-04 13:07:56 WPBACKITUP__THEMES_BATCH_SIZE:5000
+2016-08-04 13:07:56 WPBACKITUP__PLUGINS_BATCH_SIZE:5000
+2016-08-04 13:07:56 WPBACKITUP__OTHERS_BATCH_SIZE:500
+2016-08-04 13:07:56 WPBACKITUP__UPLOADS_BATCH_SIZE:500
+2016-08-04 13:07:56 WPBACKITUP__DATABASE_BATCH_SIZE:10000
+2016-08-04 13:07:56 
+--Site Info--
+2016-08-04 13:07:56 Site URL:http://kafe
+2016-08-04 13:07:56 Home URL:http://kafe
+2016-08-04 13:07:56 Multisite:No
+2016-08-04 13:07:56 
+--Wordpress Info--
+2016-08-04 13:07:56 Wordpress Version:4.5.3
+2016-08-04 13:07:56 Language:en_US
+2016-08-04 13:07:56 DB_HOST:localhost
+2016-08-04 13:07:56 Table Prefix:Length: 3   Status: Acceptable
+2016-08-04 13:07:56 WP_DEBUG:Disabled
+2016-08-04 13:07:56 Memory Limit:40M
+2016-08-04 13:07:56 
+--WordPress Active Plugins--
+2016-08-04 13:07:56 All In One SEO Pack: 2.3.8
+2016-08-04 13:07:56 Google Maps Ready!: 1.1.9
+2016-08-04 13:07:56 Go Pricing - WordPress Responsive Pricing Tables: 3.2.1
+2016-08-04 13:07:56 LayerSlider WP: 5.6.2
+2016-08-04 13:07:56 Recent Tweets Widget: 1.6.5
+2016-08-04 13:07:56 Rus filename and link translit: 1.1
+2016-08-04 13:07:56 Slider Revolution: 5.2.1
+2016-08-04 13:07:56 The7 Demo Content: 1.2.4
+2016-08-04 13:07:56 Ultimate Addons for Visual Composer: 3.15.2
+2016-08-04 13:07:56 WP BackItUp: 1.12.5
+2016-08-04 13:07:56 WPBakery Visual Composer: 4.10
+2016-08-04 13:07:56 
+--WordPress Inactive Plugins--
+2016-08-04 13:07:56 
+--Server Info--
+2016-08-04 13:07:56 PHP Version:5.3.29
+2016-08-04 13:07:56 Webserver Info:Apache
+2016-08-04 13:07:56 MySQL Version:5.5.48
+2016-08-04 13:07:56 
+--PHP Info--
+2016-08-04 13:07:56 PHP Info:5.3.29
+2016-08-04 13:07:56 Operating System:Windows NT DIMA 5.1 build 2600 (Windows XP Professional Service Pack 3) i586
+2016-08-04 13:07:56 PHP Safe Mode: Off
+2016-08-04 13:07:56 SQL Safe Mode: Off
+2016-08-04 13:07:56 Script Max Execution Time:0
+2016-08-04 13:07:56 Memory Limit:1536M
+2016-08-04 13:07:56 Upload Max Size:100M
+2016-08-04 13:07:56 Post Max Size:100M
+2016-08-04 13:07:56 Upload Max Filesize:100M
+2016-08-04 13:07:56 Max Input Vars:1000
+2016-08-04 13:07:56 Display Errors:N/A
+2016-08-04 13:07:56 Curl Installed:True
+2016-08-04 13:07:56 
+**END SYSTEM INFO**
+2016-08-04 13:07:56 V2 'Backup Retention:10'
+2016-08-04 13:07:56 V2 '**CHECK LICENSE**'
+2016-08-04 13:07:56 V2 '**END CHECK LICENSE**'
+2016-08-04 13:07:56 V2 '**CLEANUP JOB CONTROL RECORDS**'
+2016-08-04 13:08:00 V2 'Backup job control records purged:1'
+2016-08-04 13:08:00 (V2 ) INFO: Cleanup job control records purged:0
+2016-08-04 13:08:00 V2 '**END CLEANUP JOB CONTROL RECORDS**'
+2016-08-04 13:08:00 V2 '**CLEAN UNFINISHED BACKUPS**'
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::cleanup_backups_by_prefix) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::cleanup_backups_by_prefix) INFO: End
+2016-08-04 13:08:00 V2 '**END CLEAN UNFINISHED BACKUPS**'
+2016-08-04 13:08:00 V2 '**CLEAN DELETED BACKUPS**'
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::cleanup_backups_by_prefix) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: Recursively Delete: E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: Ignore:
+2016-08-04 13:08:00 V2 array (
+  0 => '',
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/JobLog_kafe_1470305469.log
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/kafe_1470305469-backupset-1470307035.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/kafe_1470305469-main-1470306816.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/kafe_1470305469-others-1470307019.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/kafe_1470305469-plugins-1470306944.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/kafe_1470305469-themes-1470306824.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/kafe_1470305469-uploads-1470307010.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: File Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786/logs_1470305469.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) ERROR: Folder could not be deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: Recursive Delete Completed:false
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::cleanup_backups_by_prefix) INFO: End
+2016-08-04 13:08:00 V2 '**END CLEAN DELETED BACKUPS**'
+2016-08-04 13:08:00 V2 '**CLEAN OLD BACKUPS**'
+2016-08-04 13:08:00 V2 '**END CLEAN OLD BACKUPS**'
+2016-08-04 13:08:00 V2 '**CLEAN OLD RESTORES**'
+2016-08-04 13:08:00 (V2 WPBackItUp_Restore::delete_restore_folder) INFO: Begin delete restore folders.
+2016-08-04 13:08:00 (V2 WPBackItUp_Restore::delete_folders) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_Restore::delete_folders) INFO: Folders to be deleted:
+2016-08-04 13:08:00 V2 array (
+  0 => 'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_restore/index.html',
+  1 => 'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_restore/web.config',
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_Restore::delete_folders) INFO: End
+2016-08-04 13:08:00 V2 '**END CLEAN OLD RESTORES**'
+2016-08-04 13:08:00 V2 '**PURGE OLD FILES**'
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::purge_old_files) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_FilesByDate) INFO: Purge files by date:10:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_FilesByDate) INFO: Completed.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files days:5
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files path:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files extension:*.log
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Completed.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files days:5
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files path:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files extension:db*.cur
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Completed.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files days:5
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files path:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs/
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files extension:*.log
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: File:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs/debug_PLUGIN_Upgrade.log
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: File Date Time:1470294242
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Completed.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files days:5
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files path:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs/
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Purge files extension:*.zip
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::purge_files) INFO: Completed.
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::purge_old_files) INFO: End
+2016-08-04 13:08:00 V2 '**END PURGE OLD FILES**'
+2016-08-04 13:08:00 V2 '**SECURE FOLDERS**'
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: Secure files exist or were created.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: End
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: Secure files exist or were created.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: End
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: Secure files exist or were created.
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::secure_folder) INFO: End
+2016-08-04 13:08:00 V2 '**END SECURE FOLDERS**'
+2016-08-04 13:08:00 (V2 end_job) INFO: Begin
+2016-08-04 13:08:01 (V2 end_job) INFO: Script Processing Time:0 Minutes 5 Seconds
+2016-08-04 13:08:01 V2 'Cleanup completed: SUCCESS'
+2016-08-04 13:08:01 V2 '*** END JOB ***'
+** Close LOG File ** 

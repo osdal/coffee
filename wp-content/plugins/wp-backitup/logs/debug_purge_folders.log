@@ -2,3 +2,15 @@
 2016-08-04 11:18:41 (V2 WPBackItUp_Backup::purge_orphaned_backups) INFO: Begin
 2016-08-04 11:18:41 (V2 WPBackItUp_Backup::purge_orphaned_backups) INFO: End
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::purge_orphaned_backups) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: Recursively Delete: E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: Ignore:
+2016-08-04 13:08:00 V2 array (
+  0 => '',
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) ERROR: Folder could not be deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 13:08:00 (V2 WPBackItUp_FileSystem::recursive_delete) INFO: Recursive Delete Completed:false
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::purge_orphaned_backups) ERROR: Folder NOT Deleted:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 13:08:00 (V2 WPBackItUp_Backup::purge_orphaned_backups) INFO: End
+** Close LOG File ** 

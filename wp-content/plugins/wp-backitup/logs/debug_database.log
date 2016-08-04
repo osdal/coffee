@@ -54580,3 +54580,466 @@ Class::__set_state(array(
    'job_status' => 'queued',
 ))
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:07:53 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:07:53 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:07:53 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470315953
+		    
+2016-08-04 13:07:53 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:07:53 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470315953',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+** Open LOG File ** 
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470315953
+		    
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470315953',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => NULL,
+   'job_status' => 'queued',
+))
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_job_tasks) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_tasks
+				WHERE
+				  job_id=1470315953
+				  AND task_status IN ( 'active', 'queued', 'error')
+				ORDER BY task_id
+		    
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_job_tasks) INFO: Results:array (
+  0 => 
+  stdClass::__set_state(array(
+     'task_id' => '32',
+     'job_id' => '1470315953',
+     'task_name' => 'task_scheduled_cleanup',
+     'task_meta' => NULL,
+     'task_start' => NULL,
+     'task_end' => NULL,
+     'create_date' => '2016-08-04 13:05:53',
+     'update_date' => NULL,
+     'allocation_id' => NULL,
+     'retry_count' => '0',
+     'error' => '0',
+     'task_status' => 'queued',
+  )),
+)
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::allocate_task) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_tasks
+				SET allocation_id=1470316075,
+					update_date = '2016-08-04 13:07:55'
+			 WHERE  task_id=32
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+				FROM  wp_wpbackitup_job_tasks
+				WHERE
+				  task_id=32
+				  AND allocation_id=1470316075
+		    
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::update_task) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_tasks
+				SET
+					task_meta='',
+					retry_count=0,
+					task_start = '2016-08-04 13:07:55',
+					task_end = '',
+					update_date ='2016-08-04 13:07:55',
+					task_status='active',
+					error=0
+			 WHERE  task_id=32
+			
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_task_by_id) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+				FROM  wp_wpbackitup_job_tasks
+				WHERE
+				  task_id=32
+		    
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_task_by_id) INFO: Results:stdClass::__set_state(array(
+   'task_id' => '32',
+   'job_id' => '1470315953',
+   'task_name' => 'task_scheduled_cleanup',
+   'task_meta' => '',
+   'task_start' => '2016-08-04 13:07:55',
+   'task_end' => '0000-00-00 00:00:00',
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => '2016-08-04 13:07:55',
+   'allocation_id' => '1470316075',
+   'retry_count' => '0',
+   'error' => '0',
+   'task_status' => 'active',
+))
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::update_job_status) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_control
+				SET job_status='active',
+					update_date = '2016-08-04 13:07:55'
+			 WHERE  job_id=1470315953
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::update_job_start_time) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_control
+                set job_start='2016-08-04 13:07:55'
+                ,update_date='2016-08-04 13:07:55'
+                where
+                job_id=1470315953
+		    
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::update_task) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_tasks
+				SET
+					task_meta='',
+					retry_count=1,
+					task_start = '2016-08-04 13:07:55',
+					task_end = '',
+					update_date ='2016-08-04 13:07:55',
+					task_status='active',
+					error=0
+			 WHERE  task_id=32
+			
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_task_by_id) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+				FROM  wp_wpbackitup_job_tasks
+				WHERE
+				  task_id=32
+		    
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:07:55 (V2 WPBackItUp_DataAccess::get_task_by_id) INFO: Results:stdClass::__set_state(array(
+   'task_id' => '32',
+   'job_id' => '1470315953',
+   'task_name' => 'task_scheduled_cleanup',
+   'task_meta' => '',
+   'task_start' => '2016-08-04 13:07:55',
+   'task_end' => '0000-00-00 00:00:00',
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => '2016-08-04 13:07:55',
+   'allocation_id' => '1470316075',
+   'retry_count' => '1',
+   'error' => '0',
+   'task_status' => 'active',
+))
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_status IN ( 'deleted', 'error', 'cancelled')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: 1
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+  0 => 
+  stdClass::__set_state(array(
+     'job_id' => '1470305469',
+     'job_type' => 'backup',
+     'job_run_type' => 'manual',
+     'job_name' => 'kafe_1470305469',
+     'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:113:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-backupset-1470307035.zip";d:79010;s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-main-1470306816.zip";d:325;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-others-1470307019.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-plugins-1470306944.zip";d:29152;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-themes-1470306824.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470305469/kafe_1470305469-uploads-1470307010.zip";d:16028;}}',
+     'job_start' => '2016-08-04 10:11:42',
+     'job_end' => '2016-08-04 10:37:39',
+     'create_date' => '2016-08-04 10:11:09',
+     'update_date' => '2016-08-04 11:39:46',
+     'job_status' => 'deleted',
+  )),
+)
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::delete_job_items) INFO: Begin
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:07:56 (V2 WPBackItUp_DataAccess::query) INFO: DELETE FROM wp_wpbackitup_job_items
+		     WHERE
+				job_id=1470305469
+			LIMIT 9999999
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 7392
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::delete_job_tasks) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: DELETE FROM wp_wpbackitup_job_tasks
+		     WHERE
+				job_id=1470305469
+			LIMIT 9999999
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 15
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::delete_job_by_id) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: DELETE FROM wp_wpbackitup_job_control
+		     WHERE
+				job_id=1470305469
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_status IN ( 'complete')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+  0 => 
+  stdClass::__set_state(array(
+     'job_id' => '1470309983',
+     'job_type' => 'backup',
+     'job_run_type' => 'manual',
+     'job_name' => 'kafe_1470309983',
+     'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip";d:326;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip";d:30199;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip";d:191;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip";d:16028;}}',
+     'job_start' => '2016-08-04 11:26:29',
+     'job_end' => '2016-08-04 12:00:57',
+     'create_date' => '2016-08-04 11:26:23',
+     'update_date' => '2016-08-04 12:00:57',
+     'job_status' => 'complete',
+  )),
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_status IN ( 'complete')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+  0 => 
+  stdClass::__set_state(array(
+     'job_id' => '1470309983',
+     'job_type' => 'backup',
+     'job_run_type' => 'manual',
+     'job_name' => 'kafe_1470309983',
+     'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip";d:326;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip";d:30199;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip";d:191;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip";d:16028;}}',
+     'job_start' => '2016-08-04 11:26:29',
+     'job_end' => '2016-08-04 12:00:57',
+     'create_date' => '2016-08-04 11:26:23',
+     'update_date' => '2016-08-04 12:00:57',
+     'job_status' => 'complete',
+  )),
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'cleanup'
+				  AND job_status IN ( 'deleted', 'error', 'cancelled')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'cleanup'
+				  AND job_status IN ( 'complete')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+  0 => 
+  stdClass::__set_state(array(
+     'job_id' => '1470309418',
+     'job_type' => 'cleanup',
+     'job_run_type' => 'scheduled',
+     'job_name' => 'cleanup_1470309418',
+     'job_meta' => NULL,
+     'job_start' => '2016-08-04 11:18:41',
+     'job_end' => '2016-08-04 11:18:41',
+     'create_date' => '2016-08-04 11:16:58',
+     'update_date' => '2016-08-04 11:18:41',
+     'job_status' => 'complete',
+  )),
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_name) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_name = 'DLT_kafe_1470305469_1470310786'
+				ORDER BY job_id DESC
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_name) INFO: Results:array (
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_name) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_name = 'kafe_1470309983'
+				ORDER BY job_id DESC
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_jobs_by_name) INFO: Results:array (
+  0 => 
+  stdClass::__set_state(array(
+     'job_id' => '1470309983',
+     'job_type' => 'backup',
+     'job_run_type' => 'manual',
+     'job_name' => 'kafe_1470309983',
+     'job_meta' => 'a:1:{s:16:"backup_zip_files";a:6:{s:108:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip";d:326;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip";d:441;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip";d:30199;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip";d:191;s:110:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip";d:36138;s:111:"E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip";d:16028;}}',
+     'job_start' => '2016-08-04 11:26:29',
+     'job_end' => '2016-08-04 12:00:57',
+     'create_date' => '2016-08-04 11:26:23',
+     'update_date' => '2016-08-04 12:00:57',
+     'job_status' => 'complete',
+  )),
+)
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::update_task) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_tasks
+				SET
+					task_meta='',
+					retry_count=1,
+					task_start = '2016-08-04 13:07:55',
+					task_end = '2016-08-04 13:08:00',
+					update_date ='2016-08-04 13:08:00',
+					task_status='complete',
+					error=0
+			 WHERE  task_id=32
+			
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_task_by_id) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+				FROM  wp_wpbackitup_job_tasks
+				WHERE
+				  task_id=32
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_task_by_id) INFO: Results:stdClass::__set_state(array(
+   'task_id' => '32',
+   'job_id' => '1470315953',
+   'task_name' => 'task_scheduled_cleanup',
+   'task_meta' => '',
+   'task_start' => '2016-08-04 13:07:55',
+   'task_end' => '2016-08-04 13:08:00',
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => '2016-08-04 13:08:00',
+   'allocation_id' => '1470316075',
+   'retry_count' => '1',
+   'error' => '0',
+   'task_status' => 'complete',
+))
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::update_job_status) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_control
+				SET job_status='complete',
+					update_date = '2016-08-04 13:08:00'
+			 WHERE  job_id=1470315953
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470315953
+		    
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::update_job_end_time) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_control
+				SET job_end='2016-08-04 13:08:00',
+					update_date = '2016-08-04 13:08:00'
+			 WHERE  job_id=1470315953
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:08:00 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470315953',
+   'job_meta' => NULL,
+   'job_start' => '2016-08-04 13:07:55',
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => '2016-08-04 13:07:55',
+   'job_status' => 'active',
+))
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:08:03 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:08:03 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:08:03 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470315953
+		    
+2016-08-04 13:08:03 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:08:03 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470315953',
+   'job_meta' => NULL,
+   'job_start' => '2016-08-04 13:07:55',
+   'job_end' => '2016-08-04 13:08:00',
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => '2016-08-04 13:08:00',
+   'job_status' => 'complete',
+))
+** Close LOG File ** 
+2016-08-04 13:08:05 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 13:08:05 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 13:08:05 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470315953
+		    
+2016-08-04 13:08:05 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 13:08:05 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'job_name' => 'cleanup_1470315953',
+   'job_meta' => NULL,
+   'job_start' => '2016-08-04 13:07:55',
+   'job_end' => '2016-08-04 13:08:00',
+   'create_date' => '2016-08-04 13:05:53',
+   'update_date' => '2016-08-04 13:08:00',
+   'job_status' => 'complete',
+))
+** Close LOG File ** 

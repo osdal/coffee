@@ -1337,3 +1337,14 @@
 2016-08-04 12:00:57 (V2 WPBackItUp_Job_Task::get_job_tasks) INFO: Begin
 2016-08-04 12:00:57 (V2 WPBackItUp_Job_Task::get_job_tasks) INFO: Begin
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::get_job_tasks) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::try_allocate_task) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::setStatus) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::save) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::try_allocate_task) INFO: End - Task allocated
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::increment_retry_count) INFO: Begin
+2016-08-04 13:07:55 (V2 WPBackItUp_Job_Task::save) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_Job_Task::setStatus) INFO: Begin
+2016-08-04 13:08:00 (V2 WPBackItUp_Job_Task::save) INFO: Begin
+** Close LOG File ** 
