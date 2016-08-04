@@ -1,0 +1,41 @@
+** Open LOG File ** 
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: **BEGIN**
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Root Path: E:\OpenServer\domains\kafe/wp-content
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Exclude: array (
+  0 => '.htaccess',
+  1 => '',
+  2 => 'debug.log',
+  3 => 'backup',
+  4 => 'plugins',
+  5 => 'themes',
+  6 => 'uploads',
+  7 => 'wpbackitup_backups',
+  8 => 'wpbackitup_restore',
+  9 => 'backup',
+  10 => 'w3tc-config',
+  11 => 'updraft',
+  12 => 'wp-clone',
+  13 => 'backwpup',
+  14 => 'backupwordpress',
+  15 => 'cache',
+  16 => 'backupcreator',
+  17 => 'backupbuddy',
+  18 => 'wptouch-data',
+  19 => 'ai1wm-backups',
+  20 => 'sedlex',
+)
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: ***
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 1 .DS_Store
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 2 index.php
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 3 languages/admin-network-ru_RU.mo
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 4 languages/admin-network-ru_RU.po
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 5 languages/admin-ru_RU.mo
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 6 languages/admin-ru_RU.po
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 7 languages/continents-cities-ru_RU.mo
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 8 languages/continents-cities-ru_RU.po
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 9 languages/ru_RU.mo
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: Add File: 10 languages/ru_RU.po
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: *Try Write Batch*
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: *Write Batch SUCCESS*
+2016-08-04 11:31:35 (V2 WPBackItUp_Backup::save_folder_inventory) INFO: **END**
+** Close LOG File ** 

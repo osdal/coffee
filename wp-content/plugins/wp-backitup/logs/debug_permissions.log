@@ -1796,3 +1796,1311 @@ n
 2016-08-04 11:16:57 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
 2016-08-04 11:16:57 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:26:23 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:26:23 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:26:23 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:26:23 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:26:23 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:27:05 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:27:05 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:27:05 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:27:05 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:27:05 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:52 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:39:52 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:39:52 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:39:52 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:39:52 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:56 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:39:56 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:39:56 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:39:56 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:39:56 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:06 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:06 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:06 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:06 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:06 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:11 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:11 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:11 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:11 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:11 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:16 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:16 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:16 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:16 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:16 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:26 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:26 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:26 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:26 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:26 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:31 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:31 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:31 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:31 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:31 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:36 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:36 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:36 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:36 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:36 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:51 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:51 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:51 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:51 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:51 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:57 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:40:57 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:40:57 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:40:57 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:40:57 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:06 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:06 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:06 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:06 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:06 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:11 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:11 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:11 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:11 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:11 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:41:16 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:16 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:16 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:16 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:16 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:29 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:29 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:29 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:29 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:29 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:39 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:39 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:39 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:39 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:39 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:44 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:44 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:44 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:44 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:44 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:48 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:48 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:48 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:48 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:48 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:51 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:51 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:51 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:51 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:51 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:59 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:41:59 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:41:59 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:41:59 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:41:59 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:42:27 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:27 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:27 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:27 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:27 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:31 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:31 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:31 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:31 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:31 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:36 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:36 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:36 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:36 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:36 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:52 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:42:52 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:42:52 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:42:52 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:42:52 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:04 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:04 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:04 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:04 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:04 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:09 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:09 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:09 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:09 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:09 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:16 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:16 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:16 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:16 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:16 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:35 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:43:35 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:43:35 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:43:35 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:43:35 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:44:13 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:44:13 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:44:13 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:44:13 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:44:13 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+ned 
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+** Open LOG File ** 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:47 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:47 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:47 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:47 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:47 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:53 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:53 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:53 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:08 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:08 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:08 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:08 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:08 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:30 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:30 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:30 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:30 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:30 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:31 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:31 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:31 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:31 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:31 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:32 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:32 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:32 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:32 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:32 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+** Close LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:05 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:05 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:05 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:05 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:05 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:15 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:15 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:15 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:15 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:15 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+** Open LOG File ** 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:27 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:27 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:27 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:27 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:27 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:29 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:29 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:29 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:29 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:29 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:34 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:34 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:34 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:34 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:34 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:41 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:41 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:41 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:41 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:41 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:44 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:44 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:44 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:44 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:44 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:48 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:48 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:48 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:48 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:48 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:56 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:58:56 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:58:56 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:58:56 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:58:56 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:00 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:00 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:00 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:00 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:00 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:11 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:11 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:11 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:11 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:11 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:59:12 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:12 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:12 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:12 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:12 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:13 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:13 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:13 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:13 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:13 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+** Close LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:32 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:32 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:32 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:32 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:32 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:37 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:37 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:37 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:37 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:37 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:51 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:51 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:51 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:51 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:52 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:07 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:07 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:07 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:07 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:07 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:12 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:12 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:12 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:12 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:12 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:16 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:16 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:16 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:16 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:16 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:21 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:21 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:21 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:21 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:21 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:26 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:26 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:26 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:26 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:26 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:31 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:31 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:31 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:31 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:31 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:36 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:36 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:36 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:36 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:36 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:42 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:42 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:42 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:42 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:42 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:46 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:46 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:46 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:46 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:46 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:51 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:51 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:51 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:51 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:51 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:56 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:00:56 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:00:56 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:00:56 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:00:56 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Open LOG File ** 
+2016-08-04 12:01:01 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:01:01 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:01:01 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:01:01 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:01:01 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:01:03 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 12:01:03 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 1
+2016-08-04 12:01:03 (V2 WPBackitup_Admin::is_authorized) INFO: DOING_CRON - NOT defined
+2016-08-04 12:01:03 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 12:01:03 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:05:53 (V2 WPBackitup_Admin::is_authorized) INFO: Begin
+2016-08-04 13:05:53 (V2 WPBackitup_Admin::is_authorized) INFO: User Permissions: 
+2016-08-04 13:05:53 (V2 WPBackitup_Admin::is_authorized) INFO: Doing CRON Constant: 1
+2016-08-04 13:05:53 (V2 WPBackitup_Admin::is_authorized) INFO: XMLRPC_REQUEST  - NOT defined 
+2016-08-04 13:05:53 (V2 WPBackitup_Admin::is_authorized) INFO: End - SUCCESS
+** Close LOG File ** 

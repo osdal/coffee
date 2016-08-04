@@ -856,3 +856,728 @@
 ** Open LOG File ** 
 2016-08-04 11:18:40 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:26:23 (V2 WPBackitup_Admin::ajax_queue_manual_backup) INFO: Begin
+2016-08-04 11:26:24 (V2 WPBackitup_Admin::ajax_queue_manual_backup) INFO: RtnData:Backup Queued
+2016-08-04 11:26:24 (V2 WPBackitup_Admin::ajax_queue_manual_backup) INFO: End
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:26:29 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:27:05 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:27:49 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:27:53 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:27:58 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:28:03 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:29:22 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:29:29 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:29:33 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:29:37 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:31:35 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:31:39 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:32:02 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:35:21 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:35:27 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:35:31 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:35:37 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:38:49 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:38:53 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:38:58 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:02 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:07 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:52 (V2 WPBackitup_Admin::ajax_queue_manual_backup) INFO: Begin
+2016-08-04 11:39:53 (V2 WPBackitup_Admin::ajax_queue_manual_backup) INFO: RtnData:Job is already in queue.
+2016-08-04 11:39:53 (V2 WPBackitup_Admin::ajax_queue_manual_backup) INFO: End
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:54 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:56 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:00 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:04 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:06 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:09 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:11 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:13 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:16 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:26 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:31 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:36 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:51 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:57 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:59 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:03 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:06 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:07 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:11 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:41:13 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:16 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:18 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:29 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:34 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:39 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:44 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:48 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:51 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:59 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:01 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+** Close LOG File ** 
+2016-08-04 11:42:07 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:12 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:16 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:42:27 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:31 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:36 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:52 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:04 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:07 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:09 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:43:12 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:16 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:17 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:43:28 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:35 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:44:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+2016-08-04 11:49:53 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+ons: 1
+2016-08-04 11:56:34 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:38 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:47 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:53 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:00 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:08 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:15 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:30 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:31 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:32 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:33 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:57:40 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:47 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:48 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:59 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:05 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:06 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:58:15 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:58:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:27 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:58:28 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:29 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:34 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:39 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:41 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:44 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:45 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:48 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:49 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:54 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:55 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:56 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:00 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:59:05 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:08 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:11 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:59:12 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:13 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:14 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:22 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:27 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:30 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:32 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:37 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:59:42 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:51 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Open LOG File ** 
+2016-08-04 11:59:52 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:56 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:07 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:12 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:16 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:21 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:26 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:31 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:36 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:42 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:44 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:46 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:50 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:51 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:54 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:56 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Open LOG File ** 
+2016-08-04 12:00:59 (V2 WPBackitup_Admin::ajax_run_task) INFO: Ajax Run task Fired.
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:01:01 (V2 WPBackitup_Admin::ajax_get_backup_status) INFO: User Permissions: 1
+** Close LOG File ** 
+** Close LOG File ** 

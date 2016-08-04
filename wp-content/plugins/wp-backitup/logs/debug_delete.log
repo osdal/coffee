@@ -1,0 +1,7 @@
+** Open LOG File ** 
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::ajax_delete_backup) INFO: From:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/kafe_1470305469
+2016-08-04 11:39:46 (V2 WPBackitup_Admin::ajax_delete_backup) INFO: To:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 11:39:46 (V2 WPBackItUp_FileSystem::rename_file) INFO: FROM Path:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/kafe_1470305469
+2016-08-04 11:39:46 (V2 WPBackItUp_FileSystem::rename_file) INFO: TO Path:E:\OpenServer\domains\kafe/wp-content/wpbackitup_backups/DLT_kafe_1470305469_1470310786
+2016-08-04 11:39:46 (V2 WPBackItUp_FileSystem::rename_file) INFO: File renamed successfully.
+** Close LOG File ** 

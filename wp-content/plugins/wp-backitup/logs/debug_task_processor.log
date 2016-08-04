@@ -2525,3 +2525,4966 @@
 )))
 2016-08-04 11:18:44 (V2 WPBackItUp_Task_Processor::task) INFO: Job Completed:1470309418
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:26:26 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:26:26 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470309986,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 11:26:26 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:26:26 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470309986' 
+2016-08-04 11:26:31 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:26:31 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:26:33 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:26:33 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:26:33 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470309993,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:26:33 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:26:33 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470309993' 
+2016-08-04 11:26:38 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:26:38 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:26:38 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:26:40 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:26:40 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:26:40 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310000,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:26:40 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:26:40 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310000' 
+2016-08-04 11:26:45 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:26:45 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:26:45 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:26:47 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:27:44 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:27:44 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310064,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:27:44 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:27:44 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310064' 
+2016-08-04 11:27:49 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:27:49 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:27:49 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:27:51 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:27:51 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:27:51 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310071,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:27:51 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:27:51 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310071' 
+2016-08-04 11:27:54 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:27:54 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:27:56 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:27:56 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:27:56 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310076,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:27:56 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:27:56 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310076' 
+2016-08-04 11:27:58 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:27:58 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:00 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:28:00 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:00 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310080,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:00 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:00 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310080' 
+2016-08-04 11:28:05 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:28:05 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:28:05 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:07 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:28:11 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:11 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310091,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:11 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:11 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310091' 
+2016-08-04 11:28:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:28:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:28:15 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:15 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310095,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:15 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:15 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310095' 
+2016-08-04 11:28:17 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:28:17 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:19 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:28:19 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:19 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310099,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:19 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:19 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310099' 
+2016-08-04 11:28:20 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:28:20 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:22 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:28:22 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:22 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310102,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:22 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:22 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310102' 
+2016-08-04 11:28:24 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:28:24 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:26 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:28:26 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:26 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310106,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:26 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:26 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310106' 
+2016-08-04 11:28:27 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:28:27 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:29 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:28:29 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:28:29 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310109,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:28:29 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:28:29 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310109' 
+2016-08-04 11:28:31 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:28:31 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:28:33 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:29:20 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:20 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310160,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:20 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:20 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310160' 
+2016-08-04 11:29:25 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:29:25 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:29:25 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:27 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:27 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:27 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310167,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:27 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:27 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310167' 
+2016-08-04 11:29:29 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:29 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:31 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:31 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:31 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310171,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:31 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:31 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310171' 
+2016-08-04 11:29:33 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:33 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:35 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:35 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:35 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310175,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:35 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:35 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310175' 
+2016-08-04 11:29:40 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:29:40 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:29:40 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:42 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:29:44 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:44 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310184,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:44 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:44 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310184' 
+2016-08-04 11:29:46 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:46 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:48 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:48 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:48 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310188,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:48 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:48 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310188' 
+2016-08-04 11:29:49 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:49 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:51 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:51 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:51 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310191,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:51 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:51 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310191' 
+2016-08-04 11:29:53 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:53 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:55 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:55 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:55 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310195,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:55 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:55 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310195' 
+2016-08-04 11:29:56 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:56 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:29:58 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:29:58 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:29:58 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310198,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:29:58 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:29:58 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310198' 
+2016-08-04 11:29:59 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:29:59 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:30:01 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:30:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:30:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310201,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:30:01 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:30:01 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310201' 
+2016-08-04 11:30:03 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:30:03 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:30:05 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:31:32 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:31:32 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310292,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:31:32 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:31:32 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310292' 
+2016-08-04 11:31:36 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:31:36 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:31:38 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:31:38 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:31:38 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310298,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:31:38 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:31:38 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310298' 
+2016-08-04 11:31:43 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:31:43 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:31:43 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:31:45 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:31:45 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:31:45 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310305,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:31:45 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:31:45 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310305' 
+2016-08-04 11:31:50 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:31:50 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:31:50 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:31:52 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:32:10 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:32:10 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310330,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:32:10 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:32:10 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310330' 
+2016-08-04 11:32:11 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:32:11 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:32:13 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:32:13 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:32:13 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310333,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:32:13 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:32:13 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310333' 
+2016-08-04 11:32:17 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:32:17 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:32:19 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:32:19 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:32:19 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310339,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:32:19 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:32:19 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310339' 
+2016-08-04 11:32:20 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:32:20 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:32:22 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:32:22 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:32:22 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310342,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:32:22 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:32:22 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310342' 
+2016-08-04 11:32:24 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:32:24 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:32:26 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:32:26 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:32:26 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310346,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:32:26 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:32:26 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310346' 
+2016-08-04 11:32:28 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:32:28 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:32:30 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:35:19 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:19 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310519,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:19 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:19 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310519' 
+2016-08-04 11:35:23 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:23 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:25 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:25 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:25 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310525,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:25 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:25 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310525' 
+2016-08-04 11:35:27 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:27 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:29 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:29 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:29 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310529,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:29 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:29 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310529' 
+2016-08-04 11:35:33 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:33 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:35 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:35 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:35 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310535,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:35 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:35 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310535' 
+2016-08-04 11:35:37 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:37 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:39 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:35:41 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:41 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310541,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:41 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:41 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310541' 
+2016-08-04 11:35:43 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:43 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:45 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:45 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:45 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310545,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:45 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:45 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310545' 
+2016-08-04 11:35:46 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:46 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:48 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:48 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:48 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310548,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:48 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:48 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310548' 
+2016-08-04 11:35:49 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:49 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:51 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:51 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:51 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310551,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:51 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:51 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310551' 
+2016-08-04 11:35:53 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:53 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:55 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:55 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:55 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310555,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:55 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:55 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310555' 
+2016-08-04 11:35:56 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:35:56 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:35:58 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:35:58 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:35:58 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310558,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:35:58 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:35:58 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310558' 
+2016-08-04 11:36:00 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:36:00 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:36:02 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:38:47 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:38:47 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310727,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:38:47 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:38:47 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310727' 
+2016-08-04 11:38:49 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:38:49 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:38:51 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:38:51 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:38:51 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310731,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:38:51 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:38:51 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310731' 
+2016-08-04 11:38:54 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:38:54 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:38:56 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:38:56 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:38:56 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310736,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:38:56 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:38:56 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310736' 
+2016-08-04 11:38:58 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:38:58 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:00 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:00 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:00 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310740,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:00 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:00 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310740' 
+2016-08-04 11:39:03 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:03 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:05 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:05 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:05 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310745,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:05 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:05 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310745' 
+2016-08-04 11:39:07 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:07 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:09 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:11 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:11 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310751,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:11 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:11 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310751' 
+2016-08-04 11:39:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:15 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:15 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310755,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:15 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:15 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310755' 
+2016-08-04 11:39:16 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:16 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:18 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:18 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:18 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310758,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:18 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:18 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310758' 
+2016-08-04 11:39:20 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:20 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:22 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:22 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:22 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310762,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:22 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:22 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310762' 
+2016-08-04 11:39:23 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:23 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:25 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:25 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:25 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310765,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:25 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:25 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310765' 
+2016-08-04 11:39:27 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:27 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:29 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:29 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:29 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310769,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:29 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:29 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310769' 
+2016-08-04 11:39:30 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:30 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:32 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:39:52 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:52 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310792,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:52 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:52 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310792' 
+2016-08-04 11:39:56 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:39:56 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:39:58 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:39:58 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:39:58 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310798,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:39:58 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:39:58 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310798' 
+2016-08-04 11:40:00 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:00 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:02 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:02 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:02 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310802,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:02 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:02 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310802' 
+2016-08-04 11:40:05 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:05 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:07 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:07 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:07 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310807,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:07 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:07 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310807' 
+2016-08-04 11:40:09 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:09 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:11 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:11 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:11 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310811,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:11 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:11 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310811' 
+2016-08-04 11:40:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:17 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:17 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310817,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:17 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:17 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310817' 
+2016-08-04 11:40:19 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:19 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:21 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:21 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:21 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310821,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:21 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:21 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310821' 
+2016-08-04 11:40:23 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:23 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:25 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:25 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:25 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310825,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:25 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:25 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310825' 
+2016-08-04 11:40:26 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:26 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:28 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:28 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:28 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310828,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:28 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:28 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310828' 
+2016-08-04 11:40:30 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:30 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:32 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:32 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:32 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310832,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:32 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:32 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310832' 
+2016-08-04 11:40:34 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:34 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:36 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:40:36 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:36 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310836,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:36 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:36 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310836' 
+2016-08-04 11:40:37 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:37 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:40:39 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:40:57 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:40:57 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310857,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:40:57 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:40:57 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310857' 
+2016-08-04 11:40:59 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:40:59 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:01 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310861,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:01 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:01 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310861' 
+2016-08-04 11:41:03 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:03 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:05 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:05 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:05 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310865,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:05 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:05 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310865' 
+2016-08-04 11:41:09 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:09 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:11 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:11 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:11 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310871,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:11 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:11 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310871' 
+2016-08-04 11:41:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:15 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:15 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310875,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:15 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:15 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310875' 
+2016-08-04 11:41:18 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:18 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:20 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:23 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:23 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310883,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:23 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:23 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310883' 
+2016-08-04 11:41:28 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:41:28 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:41:28 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:30 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:30 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:30 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310890,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:30 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:30 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310890' 
+2016-08-04 11:41:33 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:33 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:35 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:35 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:35 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310895,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:35 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:35 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310895' 
+2016-08-04 11:41:38 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:38 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:40 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:41:40 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:40 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310900,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:40 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:40 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310900' 
+2016-08-04 11:41:44 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:41:44 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:41:46 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:41:59 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:41:59 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310919,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:41:59 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:41:59 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310919' 
+2016-08-04 11:42:02 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:02 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:04 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:04 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:04 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310924,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:04 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:04 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310924' 
+2016-08-04 11:42:07 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:07 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:09 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:09 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:09 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310929,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:09 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:09 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310929' 
+2016-08-04 11:42:12 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:12 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:14 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:14 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:14 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310934,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:14 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:14 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310934' 
+2016-08-04 11:42:17 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:17 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:19 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:42:21 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:21 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310941,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:21 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:21 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310941' 
+2016-08-04 11:42:23 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:23 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:25 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:25 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:25 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310945,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:25 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:25 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310945' 
+2016-08-04 11:42:26 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:26 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:28 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:28 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:28 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310948,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:28 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:28 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310948' 
+2016-08-04 11:42:30 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:30 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:32 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:32 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:32 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310952,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:32 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:32 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310952' 
+2016-08-04 11:42:34 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:34 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:36 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:36 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:36 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310956,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:36 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:36 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310956' 
+2016-08-04 11:42:38 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:38 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:40 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:42:40 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:42:40 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310960,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:42:40 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:42:40 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310960' 
+2016-08-04 11:42:42 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:42:42 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:42:44 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:43:02 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:43:02 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310982,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:43:02 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:43:02 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310982' 
+2016-08-04 11:43:07 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:43:07 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:43:09 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:43:09 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:43:09 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310989,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:43:09 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:43:09 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310989' 
+2016-08-04 11:43:12 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:43:12 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:43:14 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:43:14 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:43:14 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310994,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:43:14 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:43:14 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310994' 
+2016-08-04 11:43:17 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:43:17 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:43:19 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:43:19 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:43:19 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470310999,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:43:19 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:43:19 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470310999' 
+2016-08-04 11:43:24 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:43:24 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:43:24 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:43:26 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:44:14 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:44:14 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311054,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:44:14 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:44:14 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311054' 
+2016-08-04 11:44:19 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:44:19 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:44:19 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:44:21 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:44:21 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:44:21 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311061,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:44:21 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:44:21 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311061' 
+2016-08-04 11:44:26 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:44:26 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:44:26 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:44:28 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:44:28 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:44:28 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311068,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:44:28 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:44:28 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311068' 
+2016-08-04 11:44:33 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:44:33 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:44:33 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:44:35 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+** Open LOG File ** 
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311393,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311393,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311393' 
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:49:53 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311393' 
+2016-08-04 11:49:54 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311394,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:49:54 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:49:54 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311394' 
+2016-08-04 11:49:58 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:49:58 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:49:58 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:49:58 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:49:58 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:49:58 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:49:59 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:49:59 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:49:59 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311400,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311400' 
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311400,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:50:00 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311400' 
+2016-08-04 11:50:01 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:50:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311401,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:50:01 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:50:01 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311401' 
+2016-08-04 11:50:05 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:05 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:05 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:05 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:05 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:05 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:06 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:06 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:06 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:07 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:07 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:50:07 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311407,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:50:07 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:50:07 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311407' 
+2016-08-04 11:50:07 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311408,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311408' 
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311408,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:50:08 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311408' 
+2016-08-04 11:50:12 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:12 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:12 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:13 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:13 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:50:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:50:14 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:50:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:23 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:56:23 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311783,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:56:23 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:56:23 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311783' 
+2016-08-04 11:56:28 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:28 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:28 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:56:30 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:56:30 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:56:30 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311790,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:56:30 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:56:30 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311790' 
+2016-08-04 11:56:35 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:35 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:35 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:56:37 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:56:37 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:56:37 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311797,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:56:37 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:56:37 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311797' 
+2016-08-04 11:56:42 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5016 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:42 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5016 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:42 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:56:44 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:56:54 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:56:54 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311814,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:56:54 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:56:54 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311814' 
+2016-08-04 11:56:59 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5016 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:59 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5016 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:56:59 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:57:01 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:57:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:57:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311821,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:57:01 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:57:01 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311821' 
+2016-08-04 11:57:06 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:06 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:06 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:57:08 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:57:08 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:57:08 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311828,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:57:08 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:57:08 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311828' 
+2016-08-04 11:57:13 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:13 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:13 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:57:15 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:57:35 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:57:35 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311855,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:57:35 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:57:35 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311855' 
+2016-08-04 11:57:40 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:40 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:40 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:57:42 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:57:42 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:57:42 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311862,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:57:42 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:57:42 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311862' 
+2016-08-04 11:57:47 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:47 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:47 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:57:49 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:57:49 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:57:49 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311869,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:57:49 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:57:49 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311869' 
+2016-08-04 11:57:54 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:54 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:57:54 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:57:56 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:04 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:58:04 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311884,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:58:04 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:58:04 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311884' 
+2016-08-04 11:58:09 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:09 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:09 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:58:11 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:58:11 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:58:11 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311891,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:58:11 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:58:11 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311891' 
+2016-08-04 11:58:16 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:16 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:16 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:58:18 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:58:18 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:58:18 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311898,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:58:18 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:58:18 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311898' 
+2016-08-04 11:58:23 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:23 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:23 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:58:25 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:58:35 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:58:35 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311915,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:58:35 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:58:35 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311915' 
+2016-08-04 11:58:40 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:40 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:40 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:58:42 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:58:42 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:58:42 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311922,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:58:42 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:58:42 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311922' 
+2016-08-04 11:58:47 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:47 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:58:47 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:58:49 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:58:49 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:58:49 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311929,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:58:49 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:58:49 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311929' 
+2016-08-04 11:58:54 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:58:54 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:58:56 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:00 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:00 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311940,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:00 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:00 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311940' 
+2016-08-04 11:59:05 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:59:05 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:59:05 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:07 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:59:07 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:07 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311947,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:07 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:07 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311947' 
+2016-08-04 11:59:12 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:59:12 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:59:12 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:14 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:59:14 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:14 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311954,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:14 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:14 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311954' 
+2016-08-04 11:59:19 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:59:19 (V2 WPBackItUp_Task_Processor::task) INFO: Error on Remote Post Request:: WP_Error::__set_state(array(
+   'errors' => 
+  array (
+    'http_request_failed' => 
+    array (
+      0 => 'Operation timed out after 5000 milliseconds with 0 bytes received',
+    ),
+  ),
+   'error_data' => 
+  array (
+  ),
+)) 
+2016-08-04 11:59:19 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:21 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 11:59:38 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:38 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311978,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:38 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:38 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311978' 
+2016-08-04 11:59:42 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:59:42 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:44 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:59:44 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:44 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311984,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:44 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:44 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311984' 
+2016-08-04 11:59:46 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:59:46 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:48 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:59:48 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:48 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311988,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:48 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:48 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311988' 
+2016-08-04 11:59:52 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:59:52 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:54 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 11:59:54 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 11:59:54 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470311994,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 11:59:54 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 11:59:54 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470311994' 
+2016-08-04 11:59:56 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 11:59:56 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 11:59:58 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312001,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:01 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:01 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312001' 
+2016-08-04 12:00:03 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:03 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:05 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:05 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:05 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312005,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:05 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:05 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312005' 
+2016-08-04 12:00:07 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:07 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:09 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:09 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:09 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312009,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:09 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:09 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312009' 
+2016-08-04 12:00:12 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:12 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:14 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:14 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:14 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312014,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:14 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:14 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312014' 
+2016-08-04 12:00:15 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:15 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:17 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:17 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:17 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312017,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:17 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:17 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312017' 
+2016-08-04 12:00:19 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:19 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:21 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 12:00:42 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:42 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312042,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:42 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:42 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312042' 
+2016-08-04 12:00:45 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:45 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:47 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:47 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:47 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312047,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:47 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:47 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312047' 
+2016-08-04 12:00:50 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:50 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:52 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:52 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:52 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312052,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:52 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:52 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312052' 
+2016-08-04 12:00:55 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:55 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:00:57 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:00:57 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:00:57 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312057,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'active',
+)))
+2016-08-04 12:00:57 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 12:00:57 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470309983&nonce=39c518bedb&uid=1470312057' 
+2016-08-04 12:00:59 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 12:00:59 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312061,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => '2016-08-04 12:00:57',
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+    'backup_zip_files' => 
+    array (
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip' => 326,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip' => 441,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip' => 30199,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip' => 191,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip' => 36138,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip' => 16028,
+    ),
+  ),
+   'job_status' => 'complete',
+)))
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job Completed:1470309983
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470309983',
+   'job_name' => 'kafe_1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'manual',
+   'instance_id' => 1470312061,
+   'log_name' => 'debug_job',
+   'job_start_time' => '2016-08-04 11:26:29',
+   'job_end_time' => '2016-08-04 12:00:57',
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => 
+  array (
+    'backup_zip_files' => 
+    array (
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip' => 326,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip' => 441,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip' => 30199,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip' => 191,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip' => 36138,
+      'E:\\OpenServer\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip' => 16028,
+    ),
+  ),
+   'job_status' => 'complete',
+)))
+2016-08-04 12:01:01 (V2 WPBackItUp_Task_Processor::task) INFO: Job Completed:1470309983
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 13:05:55 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'cleanup_1470315953'
+2016-08-04 13:05:55 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470315953',
+   'job_name' => 'cleanup_1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470315955,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 13:05:55 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 13:05:55 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470315953&nonce=39c518bedb&uid=1470315955' 
+2016-08-04 13:05:56 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 13:05:56 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 13:05:58 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 13:05:58 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'cleanup_1470315953'
+2016-08-04 13:05:58 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470315953',
+   'job_name' => 'cleanup_1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470315958,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 13:05:58 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 13:05:58 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470315953&nonce=39c518bedb&uid=1470315958' 
+2016-08-04 13:06:00 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 13:06:00 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 13:06:02 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 13:06:02 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'cleanup_1470315953'
+2016-08-04 13:06:02 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470315953',
+   'job_name' => 'cleanup_1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470315962,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 13:06:02 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 13:06:02 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470315953&nonce=39c518bedb&uid=1470315962' 
+2016-08-04 13:06:03 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 13:06:03 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 13:06:05 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 13:06:05 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'cleanup_1470315953'
+2016-08-04 13:06:05 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470315953',
+   'job_name' => 'cleanup_1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470315965,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 13:06:05 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 13:06:05 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470315953&nonce=39c518bedb&uid=1470315965' 
+2016-08-04 13:06:07 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 13:06:07 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 13:06:09 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 13:06:09 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'cleanup_1470315953'
+2016-08-04 13:06:09 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470315953',
+   'job_name' => 'cleanup_1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470315969,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 13:06:09 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 13:06:09 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470315953&nonce=39c518bedb&uid=1470315969' 
+2016-08-04 13:06:10 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 13:06:10 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 13:06:12 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+2016-08-04 13:06:12 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'cleanup_1470315953'
+2016-08-04 13:06:12 (V2 WPBackItUp_Task_Processor::task) INFO: Job found:(WPBackItUp_Job::__set_state(array(
+   'job_id' => '1470315953',
+   'job_name' => 'cleanup_1470315953',
+   'job_type' => 'cleanup',
+   'job_run_type' => 'scheduled',
+   'instance_id' => 1470315972,
+   'log_name' => 'debug_job',
+   'job_start_time' => NULL,
+   'job_end_time' => NULL,
+   'locked' => NULL,
+   'mutex' => NULL,
+   'job_meta' => NULL,
+   'job_status' => 'queued',
+)))
+2016-08-04 13:06:12 (V2 WPBackItUp_Task_Processor::task) INFO: Before Fire Action:wp-backitup_run_task
+2016-08-04 13:06:12 (V2 WPBackItUp_Task_Processor::task) INFO: Request: 'http://kafe/wp-admin/admin-ajax.php?action=wp-backitup_run_task&job_id=1470315953&nonce=39c518bedb&uid=1470315972' 
+2016-08-04 13:06:14 (V2 WPBackItUp_Task_Processor::task) INFO: Remote Get Response:: array (
+  'headers' => 
+  array (
+  ),
+  'body' => '',
+  'response' => 
+  array (
+    'code' => false,
+    'message' => false,
+  ),
+  'cookies' => 
+  array (
+  ),
+) 
+2016-08-04 13:06:14 (V2 WPBackItUp_Task_Processor::task) INFO: Wait 2 seconds.
+2016-08-04 13:06:16 (V2 WPBackItUp_Task_Processor::task) INFO: After Fire Action:wp-backitup_run_task
+** Close LOG File ** 
