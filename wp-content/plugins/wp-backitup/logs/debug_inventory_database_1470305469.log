@@ -1,0 +1,83 @@
+** Open LOG File ** 
+2016-08-04 10:17:54 (V2 WPBackItUp_Backup::save_database_inventory) INFO: **BEGIN**
+2016-08-04 10:17:54 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Exclude: array (
+  0 => '',
+  1 => 'wp_wpbackitup_job_control',
+  2 => 'wp_wpbackitup_job_tasks',
+  3 => 'wp_wpbackitup_job_items',
+  4 => 'wp_wpbackitup_job',
+)
+2016-08-04 10:17:54 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ***
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_postmeta 869/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_postmeta Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_options 790/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_options Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_posts 231/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_posts Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_icons 128/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_icons Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_revslider_css 108/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_revslider_css Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_terms 55/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_terms Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_term_taxonomy 55/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_term_taxonomy Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_usermeta 25/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_usermeta Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_htmltype 18/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_htmltype Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: EXCLUDE table:wp_wpbackitup_job_tasks 15 16.00 kb 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_modules 12/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_modules Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_term_relationships 8/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_term_relationships Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_w2gm_content_fields 8/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_w2gm_content_fields Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_modules_type 7/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_modules_type Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_usage_stat 4/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_usage_stat Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_options_categories 4/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_options_categories Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_w2gm_locations_levels 3/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_w2gm_locations_levels Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_options 2/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_options Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_revslider_static_slides 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_revslider_static_slides Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_revslider_slides 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_revslider_slides Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: EXCLUDE table:wp_wpbackitup_job_control 1 16.00 kb 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_revslider_sliders 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_revslider_sliders Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_markers 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_markers Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_marker_groups 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_marker_groups Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_w2gm_content_fields_groups 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_w2gm_content_fields_groups Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_gmp_maps 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_gmp_maps Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_users 1/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_users Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_comments 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_comments Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_links 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_links Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_commentmeta 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_commentmeta Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_termmeta 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_termmeta Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_layerslider 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_layerslider Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: EXCLUDE table:wp_wpbackitup_job_items 0 16.00 kb 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_w2gm_locations_relationships 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_w2gm_locations_relationships Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_revslider_navigations 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_revslider_navigations Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: ROW_COUNT/BATCH_SIZE=BATCH RECORDS:wp_revslider_layer_animations 0/10000=1 
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: Add table:wp_revslider_layer_animations Offset:0
+2016-08-04 10:18:34 (V2 WPBackItUp_Backup::save_database_inventory) INFO: *Try Write Batch*
+2016-08-04 10:18:35 (V2 WPBackItUp_Backup::save_database_inventory) INFO: *Write Batch SUCCESS*
+2016-08-04 10:18:35 (V2 WPBackItUp_Backup::save_database_inventory) INFO: **END**
+** Close LOG File ** 

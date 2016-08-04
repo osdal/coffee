@@ -1,0 +1,36 @@
+** Open LOG File ** 
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::route) INFO: Update Options Form Post
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Posted Fields
+2016-08-04 10:08:46 V2 array (
+  'notification_email' => '',
+  'backup_retained_number' => '10',
+  'logging' => 'true',
+  'single_file_backupset' => '1',
+  'backup_dbtables_batch_size' => '10000',
+  'backup_plugins_batch_size' => '5000',
+  'backup_themes_batch_size' => '5000',
+  'backup_uploads_batch_size' => '500',
+  'backup_others_batch_size' => '500',
+  'backup_plugins_filter' => '',
+  'backup_themes_filter' => '',
+  'backup_uploads_filter' => '',
+  'backup_others_filter' => '',
+  'backup_dbtables_filter_list' => '',
+)
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: notification_email:
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_retained_number:10
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: logging:true
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: single_file_backupset:1
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_dbtables_batch_size:10000
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_plugins_batch_size:5000
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_themes_batch_size:5000
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_uploads_batch_size:500
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_others_batch_size:500
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_plugins_filter:
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_themes_filter:
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_uploads_filter:
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_others_filter:
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: backup_dbtables_filter_list:
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: rversion_compare:0
+2016-08-04 10:08:46 (V2 WPBackitup_Admin::_admin_options_update) INFO: Updated Option: delete_all:0
+** Close LOG File ** 

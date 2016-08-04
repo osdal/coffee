@@ -1,0 +1,1117 @@
+** Open LOG File ** 
+2016-08-04 10:11:38 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:11:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:11:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:11:46 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:11:46 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:11:46 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:11:46 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:17:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:18:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:18:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:18:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:18:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:20:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:20:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:20:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:23:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:23:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:23:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:23:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:23:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:23:13 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:23:13 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:23:13 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:23:13 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:25:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:25:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:25:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:25:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:25:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:25:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:false
+2016-08-04 10:25:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:false
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:25:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:25:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:27:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:27:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:27:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:27:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:27:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:27:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:27:35 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:27:35 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:27:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:27:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:27:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:27:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:30:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:30:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:30:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:30:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:33 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:30:33 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:30:33 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:33 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:42 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:30:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:30:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:30:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:30:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:30:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:30:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:30:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:30:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:30:49 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:30:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:30:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:30:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:58 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:30:58 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:02 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:31:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:31:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:31:12 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:12 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:12 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:12 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:31:18 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:18 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:18 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:18 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:31:21 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:21 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:21 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:21 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:22 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:22 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:22 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:31:24 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:24 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:24 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:24 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:30 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:30 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:30 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:30 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:31 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:32 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:33 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:33 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:31:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:31:43 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:43 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:43 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:43 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:46 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:31:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:31:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:31:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:31:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:31:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:31:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:32:02 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:02 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:02 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:02 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:06 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:32:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:08 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:12 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:12 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:12 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:12 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:12 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:12 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:32:14 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:14 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:14 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:14 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:15 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:15 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:32:16 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:16 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:16 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:16 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:32:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:21 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:21 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:32:22 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:22 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:22 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:22 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:25 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:32:27 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:27 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:27 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:27 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:29 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:29 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:32:30 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:30 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:30 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:30 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:32 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:32 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:32 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:32 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:35 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:35 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:32:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:35 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Open LOG File ** 
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:42 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:32:45 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:45 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:45 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:45 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:48 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:32:51 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:51 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:51 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:51 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:32:55 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:32:57 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:32:57 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:32:57 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:32:57 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:01 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:33:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:03 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:33:11 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:11 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:11 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:11 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:13 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:13 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:14 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:15 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:33:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:33:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:21 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:21 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:21 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:21 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:22 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:22 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:33:23 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:23 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:23 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:23 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:26 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:26 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:26 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:26 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:33:28 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:28 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:28 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:28 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:29 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:29 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:29 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:29 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:33:31 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:31 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:31 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:31 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:36 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+2016-08-04 10:33:37 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:33:37 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:33:37 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:33:37 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:43 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:33:43 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:33:43 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:43 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:43 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:33:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:33:53 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:07 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:07 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:07 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:07 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:07 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:07 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:13 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:13 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:13 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:13 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:14 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:27 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Open LOG File ** 
+2016-08-04 10:34:27 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:30 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:41 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:47 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:50 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:54 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:34:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:10 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:16 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:19 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:24 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:28 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:40 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:35:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:35:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:35:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:35:42 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:35:44 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:35:49 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:51 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:54 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:56 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:35:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:04 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:04 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:08 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:09 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:14 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:20 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:24 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:30 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:35 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:45 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:36:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:36:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:36:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:36:47 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:50 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:36:50 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+** Open LOG File ** 
+2016-08-04 10:36:52 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:54 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:56 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+** Close LOG File ** 
+2016-08-04 10:36:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:36:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:36:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:36:56 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:36:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:36:59 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:36:59 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:36:59 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:36:59 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:36:59 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:00 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:01 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:03 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:03 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:04 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:04 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:04 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:04 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:05 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:05 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:05 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:05 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:05 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:09 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:14 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:14 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:15 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:18 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:19 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:23 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:26 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:28 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:28 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:32 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:34 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:36 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 10:37:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: Begin:E:\OpenServer\domains\kafe\wp-content\plugins\wp-backitup//logs\joblock.lock
+2016-08-04 10:37:39 (V2 WPBackItUp_Mutex::attemptLock) INFO: File Handle:NULL
+2016-08-04 10:37:40 (V2 WPBackItUp_Mutex::releaseLock) INFO: Begin
+2016-08-04 10:37:40 (V2 WPBackItUp_Mutex::releaseLock) INFO: File Handle:NULL
+2016-08-04 10:37:40 (V2 WPBackItUp_Mutex::releaseLock) INFO: Flock Unlock:true
+2016-08-04 10:37:40 (V2 WPBackItUp_Mutex::releaseLock) INFO: Close File:true
+** Close LOG File ** 
