@@ -55109,3 +55109,182 @@ Class::__set_state(array(
    'job_status' => 'complete',
 ))
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: NULL
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:NULL
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::create_job) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::query) INFO: INSERT  wp_wpbackitup_job_control
+				(job_id, job_type,job_run_type,job_name,job_status,create_date)
+		        VALUES(1470309983,'backup','imported','kafe_1470309983','complete','2016-08-04 20:43:11')
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: 1
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:stdClass::__set_state(array(
+   'job_id' => '1470309983',
+   'job_type' => 'backup',
+   'job_run_type' => 'imported',
+   'job_name' => 'kafe_1470309983',
+   'job_meta' => NULL,
+   'job_start' => NULL,
+   'job_end' => NULL,
+   'create_date' => '2016-08-04 20:43:11',
+   'update_date' => NULL,
+   'job_status' => 'complete',
+))
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::update_job_meta) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::query) INFO: UPDATE  wp_wpbackitup_job_control
+				SET job_meta='a:1:{s:16:\"backup_zip_files\";a:6:{s:97:\"W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip\";d:326;s:99:\"W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip\";d:441;s:100:\"W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip\";d:30199;s:100:\"W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip\";d:191;s:99:\"W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip\";d:36138;s:100:\"W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip\";d:16028;}}',
+					update_date = '2016-08-04 20:43:11'
+			 WHERE  job_id=1470309983
+			 
+2016-08-04 20:43:11 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: 1
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 21:34:46 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 21:34:46 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 21:34:46 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 21:34:46 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: NULL
+2016-08-04 21:34:46 (V2 WPBackItUp_DataAccess::get_row) ERROR: Last Error:'SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    '
+2016-08-04 21:34:46 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:NULL
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'restore'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'cleanup'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::create_job) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::query) INFO: INSERT  wp_wpbackitup_job_control
+				(job_id, job_type,job_run_type,job_name,job_status,create_date)
+		        VALUES(1470346564,'cleanup','scheduled','cleanup_1470346564','queued','2016-08-04 21:36:04')
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: Query Error
+2016-08-04 21:36:04 (V2 WPBackItUp_DataAccess::query) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 21:43:32 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-04 21:43:32 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-04 21:43:32 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-04 21:43:32 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: NULL
+2016-08-04 21:43:32 (V2 WPBackItUp_DataAccess::get_row) ERROR: Last Error:'SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    '
+2016-08-04 21:43:32 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:NULL
+** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'restore'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'cleanup'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::create_job) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::query) INFO: INSERT  wp_wpbackitup_job_control
+				(job_id, job_type,job_run_type,job_name,job_status,create_date)
+		        VALUES(1470347122,'cleanup','scheduled','cleanup_1470347122','queued','2016-08-04 21:45:22')
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: Query Error
+2016-08-04 21:45:22 (V2 WPBackItUp_DataAccess::query) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+** Close LOG File ** 

@@ -24,3 +24,40 @@
 2016-08-04 10:04:02 V2 '***END SCAN & IMPORT BACKUPS ***'
 2016-08-04 10:04:02 (V2 wpbackitup_update_database) INFO: Updated Db version in settings:4
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 20:43:11 (V2 wpbackitup_update_database) INFO: Running database upgrade routines.
+2016-08-04 20:43:11 (V2 wpbackitup_update_database) INFO: Current DB version:0
+2016-08-04 20:43:11 (V2 wpbackitup_update_database) INFO: Target DB version:4
+2016-08-04 20:43:11 (V2 wpbackitup_update_database) INFO: New Install.
+2016-08-04 20:43:11 V2 '*** DROP JOB TABLES ***'
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Drop OLD Job Table:DROP TABLE IF EXISTS wp_wpbackitup_job;
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: OLD Job Table Dropped successfully
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Drop Job Table:DROP TABLE IF EXISTS wp_wpbackitup_job_control;
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Job Table Dropped successfully
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Drop Task Table:DROP TABLE IF EXISTS wp_wpbackitup_job_tasks;
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Task Table Dropped successfully
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Drop Job Table:DROP TABLE IF EXISTS wp_wpbackitup_job_items;
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Item Table Dropped successfully
+2016-08-04 20:43:11 V2 '*** END DROP JOB TABLES ***'
+2016-08-04 20:43:11 V2 '*** CREATE JOB TABLES ***'
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Table Created:wp_wpbackitup_job_control
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Table Created:wp_wpbackitup_job_tasks
+2016-08-04 20:43:11 (V2 wpbackitup_create_custom_tables) INFO: Table Created:wp_wpbackitup_job_items
+2016-08-04 20:43:11 V2 '*** END CREATE JOB TABLES ***'
+2016-08-04 20:43:11 V2 '***SCAN & IMPORT BACKUPS ***'
+2016-08-04 20:43:11 (V2 wpbackitup_scan_import_backups) INFO: Backup Sets Found:array (
+  0 => 'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983',
+)
+2016-08-04 20:43:11 (V2 wpbackitup_scan_import_backups) INFO: Importing:W:\domains\kafe/wp-content/wpbackitup_backups/kafe_1470309983
+2016-08-04 20:43:11 (V2 wpbackitup_scan_import_backups) INFO: Update Job Meta:array (
+  'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-main-1470310868.zip' => 326,
+  'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-others-1470312036.zip' => 441,
+  'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470310942.zip' => 30199,
+  'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-plugins-1470311952.zip' => 191,
+  'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-themes-1470310871.zip' => 36138,
+  'W:\\domains\\kafe/wp-content/wpbackitup_backups/kafe_1470309983/kafe_1470309983-uploads-1470311962.zip' => 16028,
+)
+2016-08-04 20:43:11 (V2 wpbackitup_scan_import_backups) INFO: Job Imported:kafe_1470309983
+2016-08-04 20:43:11 V2 '***END SCAN & IMPORT BACKUPS ***'
+2016-08-04 20:43:11 (V2 wpbackitup_update_database) INFO: Updated Db version in settings:4
+** Close LOG File ** 
