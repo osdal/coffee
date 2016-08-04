@@ -14922,3 +14922,28 @@ tdClass::__set_state(array(
 2016-08-04 21:45:22 (V2 WPBackItUp_Job::queue_job) INFO: Begin -  Job:cleanup
 2016-08-04 21:45:22 (V2 WPBackItUp_Job::queue_job) INFO: Job was not created:1470347122
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: Begin - Check Job Queue:restore
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 22:04:12 V2 false
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: No jobs found:restore
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: End
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: Begin - Check Job Queue:backup
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 22:04:12 V2 false
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: No jobs found:backup
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: End
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: Begin - Check Job Queue:cleanup
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Begin
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: Jobs found:0
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::get_jobs_by_status) INFO: End
+2016-08-04 22:04:12 V2 false
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: No jobs found:cleanup
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::is_job_queued_active) INFO: End
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::queue_job) INFO: Begin -  Job:cleanup
+2016-08-04 22:04:12 (V2 WPBackItUp_Job::queue_job) INFO: Job was not created:1470348252
+** Close LOG File ** 
