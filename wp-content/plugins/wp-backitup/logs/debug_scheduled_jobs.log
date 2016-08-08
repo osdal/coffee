@@ -23,3 +23,8 @@
 2016-08-04 22:04:12 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) ERROR: Scheduled job could not be queued:cleanup
 2016-08-04 22:04:12 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) INFO: End check scheduled jobs.
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-08 15:25:53 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) ERROR: Scheduled job could not be queued:cleanup
+2016-08-08 15:25:53 (V2 WPBackitup_Admin::wpbackitup_queue_scheduled_jobs) INFO: End check scheduled jobs.
+** Close LOG File ** 

@@ -55355,3 +55355,54 @@ Class::__set_state(array(
 		    '
 2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:NULL
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'restore'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'backup'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: SELECT *
+				FROM  wp_wpbackitup_job_control
+				WHERE
+				  job_type = 'cleanup'
+				  AND job_status IN ( 'queued', 'active')
+				ORDER BY job_id DESC
+				LIMIT 100
+		    
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) INFO: Query Result: NULL
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_rows) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::get_jobs_by_status) INFO: Results:array (
+)
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::create_job) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::query) INFO: Begin
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::query) INFO: INSERT  wp_wpbackitup_job_control
+				(job_id, job_type,job_run_type,job_name,job_status,create_date)
+		        VALUES(1470669953,'cleanup','scheduled','cleanup_1470669953','queued','2016-08-08 15:25:53')
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: Query Error
+2016-08-08 15:25:53 (V2 WPBackItUp_DataAccess::query) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
+** Close LOG File ** 
