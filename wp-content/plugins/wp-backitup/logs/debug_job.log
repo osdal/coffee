@@ -14947,3 +14947,8 @@ tdClass::__set_state(array(
 2016-08-04 22:04:12 (V2 WPBackItUp_Job::queue_job) INFO: Begin -  Job:cleanup
 2016-08-04 22:04:12 (V2 WPBackItUp_Job::queue_job) INFO: Job was not created:1470348252
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-08 15:23:52 (V2 WPBackItUp_Job::get_job_by_id) INFO: Begin
+2016-08-08 15:23:52 (V2 WPBackItUp_Job::get_job_by_id) INFO: No job found with id.1470309983
+2016-08-08 15:23:52 (V2 WPBackItUp_Job::get_job_by_id) INFO: End
+** Close LOG File ** 

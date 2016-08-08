@@ -7590,3 +7590,7 @@
 2016-08-04 21:43:32 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
 2016-08-04 21:43:32 (V2 WPBackItUp_Task_Processor::task) ERROR: NO JOB found:1470309983
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-08 15:23:52 (V2 WPBackItUp_Task_Processor::task) INFO: Task Processor Event:'kafe_1470309983'
+2016-08-08 15:23:52 (V2 WPBackItUp_Task_Processor::task) ERROR: NO JOB found:1470309983
+** Close LOG File ** 

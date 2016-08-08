@@ -55339,3 +55339,19 @@ Class::__set_state(array(
 2016-08-04 22:04:12 (V2 WPBackItUp_DataAccess::query) INFO: Query Result: Query Error
 2016-08-04 22:04:12 (V2 WPBackItUp_DataAccess::query) ERROR: Last Error:'Table \'kafe.wp_wpbackitup_job_control\' doesn\'t exist'
 ** Close LOG File ** 
+** Open LOG File ** 
+2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Begin
+2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_row) INFO: Begin
+2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_row) INFO: SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    
+2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_row) INFO: Query Result: NULL
+2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_row) ERROR: Last Error:'SELECT *
+			 FROM wp_wpbackitup_job_control
+		     WHERE
+				  job_id=1470309983
+		    '
+2016-08-08 15:23:52 (V2 WPBackItUp_DataAccess::get_job_by_id) INFO: Results:NULL
+** Close LOG File ** 
